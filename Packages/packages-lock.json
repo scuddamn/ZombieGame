@@ -1,13 +1,5 @@
 {
   "dependencies": {
-    "com.rtwarner.ditherdown-urp": {
-      "version": "file:/Users/alexandrascudder/Downloads/ditherdown",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "com.unity.render-pipelines.universal": "17.0.0"
-      }
-    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
