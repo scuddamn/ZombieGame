@@ -61,7 +61,7 @@ public class FlashlightController : MonoBehaviour
             }
         }
 
-        if (IsOn == true)
+        if (IsOn)
         {
             ProcessRaycast();
         }
